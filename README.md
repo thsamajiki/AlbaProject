@@ -21,13 +21,13 @@
     - 개발자 (4)
     
 
-| name | role | phone | email |
-| --- | --- | --- | --- |
-| 김예주 | 앱 기획 | 01027142772 | 3033lon@gmail.com |
-| 김주현 | 앱 기획 | 01093970916 | 0916juhyun@naver.com |
-| 이지윤 | Android 개발 | 01031054098 | jiyun991111@gmail.com |
-| 정호섭 | Android 개발 | 01042321514 | ant1102@naver.com |
-| 장수현  | Backend 개발 | 01040814151 | suhyeonjan10@gmail.com |
-| 김영주 | Backend 개발 | 01039484321 | fullbster@gmail.com |
-| 권희경 | 디자이너 | 01022585319 | khk5319@gmail.com |
-| 김수빈 | 디자이너 | 01031322478 | rlatnqls0627@gmail.com |
+| name | role |
+| --- | --- |
+| 김예주 | 앱 기획 |
+| 김주현 | 앱 기획 |
+| 이지윤 | Android 개발 |
+| 정호섭 | Android 개발 |
+| 장수현  | Backend 개발 |
+| 김영주 | Backend 개발 |
+| 권희경 | 디자이너 |
+| 김수빈 | 디자이너 |
